@@ -1,0 +1,10 @@
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+generated*.h
+spike-mic/
+.superpowers/
+__pycache__/
+build-host/

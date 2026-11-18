@@ -1,0 +1,1 @@
+idf_component_register(SRCS "timefmt.c" "civil.c" "rtcreg.c" "rect.c" "fade.c" "orient.c" "digits.c" "ring.c" "plus.c" "touchmap.c" "cfgline.c" "setup.c" "jscan.c" "shelf.c" "match.c" "session.c" "body.c" "reply.c" "wav.c" "recent.c" "rot.c" "layout.c" "text.c" "flow.c" "postreply.c" "flush.c" "total.c" INCLUDE_DIRS "include")
