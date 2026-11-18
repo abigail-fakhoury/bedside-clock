@@ -16,7 +16,8 @@ The clock face and the low-power design come from [bedroom-clock](https://github
 
 ## Parts
 
-- [Waveshare ESP32-C6 Touch AMOLED 2.16](https://www.waveshare.com/esp32-c6-touch-amoled-2.16.htm) (480×480 touch screen, two microphones, real-time clock, Wi-Fi). The parts used for this build: [Amazon B0HD761BL6](https://www.amazon.com/dp/B0HD761BL6) and [Amazon B0DPZVBKMY](https://www.amazon.com/dp/B0DPZVBKMY).
+- The board: a [Waveshare ESP32-C6 Touch AMOLED 2.16](https://www.amazon.com/dp/B0HD761BL6) (480×480 touch screen, two microphones, real-time clock, Wi-Fi). [Waveshare's page](https://www.waveshare.com/esp32-c6-touch-amoled-2.16.htm) has the specs.
+- A [battery](https://www.amazon.com/dp/B0DPZVBKMY) for the board's battery connector.
 - A USB-C cable and a Mac for flashing and setup.
 
 ## Accounts and keys
